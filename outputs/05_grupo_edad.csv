@@ -1,0 +1,5 @@
+age_group,cant_total_creditos,total_monto_prestado,ingreso_promedio,cant_clientes_mora,tasa_clientes_mora,tasa_cartera_riesgo
+50+,279,2849825.0,96955.29,71,25.45,34.14
+18-25,14891,138073575.0,59487.81,3393,22.79,25.7
+26-35,13415,134003750.0,70981.41,2739,20.42,23.5
+36-50,3094,31090800.0,77970.49,622,20.1,23.27
